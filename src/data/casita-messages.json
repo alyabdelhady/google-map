@@ -1,0 +1,26 @@
+{
+  "Entries": {
+    "Entry": [
+      {
+        "message": "It is very hot in, Cairo",
+        "sentiment": "Neutrual"
+      },
+      {
+        "message": "There is new project started in, Nairobi",
+        "sentiment": "Positive"
+      },
+      {
+        "message": "Dubai EXPO 2020 will create a new image for the middle, Dubai",
+        "sentiment": "Positive"
+      },
+      {
+        "message": "I hate black people, there are so many of them in, New York",
+        "sentiment": "Negative"
+      },
+      {
+        "message": "Do you COVID Vaccine, Jeddh, is good?",
+        "sentiment": "Negative"
+      }
+    ]
+  }
+}
